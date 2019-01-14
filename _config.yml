@@ -1,11 +1,11 @@
 # Site settings
 author: Michael Hedges
-title: 
+title: Education of a Data Scientist
 header-img: img/home-bg.png
 email: michael.foster.hedges@gmail.com
 copyright_name: Michael Hedges
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My path to a career in data science and coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mfhedges
